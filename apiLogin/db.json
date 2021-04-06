@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Daniela",
+            "surname": "Sanz",
+            "username": "marla",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 2,
+            "name": "Julian",
+            "surname": "Mark",
+            "username": "polli",
+            "password": "1e01ba3e07ac48cbdab2d3284d1dd0fa"
+        }
+    ]
+}
